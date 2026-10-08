@@ -17,4 +17,4 @@ object-oriented programming
  ## author
  Sivakumar
  ## output
- ![Screenshot 2026-10-08 113331](Screenshot 2026-10-08 113331.png)
+ ![Banking App Output](Screenshot%2026-10-08%20113331.png)
